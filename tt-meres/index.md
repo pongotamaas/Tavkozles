@@ -14,21 +14,10 @@
 A projekt célja egy PI csillapító áramkör megépítése, amelynek fókuszában a csillapítás mérése áll.
 Az áramkört breadboardon építettem meg, a könnyedség kedvéért.
 
-## Elmélet:
 
-Az áramkör arról kapja a nevét, hogy az ellenállásokat a görög "&#928;" formájában kötjük össze.
-Az érétkeket a következő képletekkel számoljuk ki:
-
-![R1 képlete](https://raw.githubusercontent.com/szabot2/pi-csillapito/cffee4ced185268076fb4bf54fdfafc23a0b0f74/kepek/svgviewer-output.svg)
-
-![R2 képlete](https://raw.githubusercontent.com/szabot2/pi-csillapito/cffee4ced185268076fb4bf54fdfafc23a0b0f74/kepek/svgviewer-output(1).svg)
 
 
 6 dB-es csillapításra kiszámolt ellenállás értékek:
-
-
-<img src="https://raw.githubusercontent.com/szabot2/pi-csillapito/refs/heads/main/kepek/ql_41d4e91c270a0827beb0bb25f1c6a62a_l3.png">
-<br>
 
 A kapcsolási rajz ábrázolja a jelgenerátort a belső ellenállásával, valamint a Pi csillapítót a kiszámolt ellenállás értékekkel:
 <a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWc0wCZIA4AsBmBDUsM4A2AThxAUiqpoQFMBaMMAKADcQySRdVuvdBijhw8WjSnQEbAE6CQwpZhUiaJOGwDuavcpyQsUHYv57zkU8vMGcvK7oNGlCXoeOPX7l6jdKAdgEvOyF-HHsTJ3DIv3cSdWtwhJAPVJSQ-1Qg1N8cqwU07IE0+3VwYgLc42K+MCF8vmpTUpSsevTEhXaGgR7O0TBK037arBIa-JGOsr4JgaqsHkC+5dmNLV1l5WWwLE9rVWVlPYPdJfiRNxp1ke2c65WTAAdFU713ygPXx9rH2a+UT49z681qXguA3GxluAHslAiaGgEOMlNAlmQyBhUKgcERsDiyEgYPAIDQBCU2PCwAFEeA-KiwNBCJiyKwaftUKwiFBYHAIBABDTUmwgA" target="_blank">

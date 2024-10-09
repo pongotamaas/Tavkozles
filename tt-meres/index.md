@@ -27,19 +27,19 @@ A kapcsolási rajz ábrázolja a jelgenerátort a belső ellenállásával, vala
 
 | Paraméter           | Érték |
 |---------------------|-------|
-| Generátor jel       | 5.00 Vp2p|
-| Kimeneti Jel        | 2.06 Vp2p |
-| Generátor Frekvencia| 1000 Hz |
-| Csillapítás         | -7.702 dB |
-| Átviteli Arány      | 7.702 dB |
-| Bemeneti impedancia | ? Ω |
-| Kimeneti impedancia | ? Ω |   
+| Generátor jel       | |
+| Kimeneti Jel        |  |
+| Generátor Frekvencia|  |
+| Csillapítás         |  |
+| Átviteli Arány      |  |
+| Bemeneti impedancia |  |
+| Kimeneti impedancia |  |   
 
 <br>
 
 Látható az oszcilloszkópon a sárga 1-es csatornán a csillapított kimeneti jel, és a kék 2-es csatornán a generátor jel.
 
-<img src="https://raw.githubusercontent.com/szabot2/pi-csillapito/refs/heads/main/kepek/TA02.PNG" width="600" height="480">
+
 
 
 ### 4. **Mérési eredmények**
@@ -58,7 +58,6 @@ A pi csillapító áramkör sikeresen megvalósult, és a tesztelési eredménye
 
 ### 7. **Javaslatok**
 
-- nincs
 
 ---
 

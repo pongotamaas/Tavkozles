@@ -14,26 +14,26 @@
 A projekt célja egy PI csillapító áramkör megépítése, amelynek fókuszában a csillapítás mérése áll.
 Az áramkört breadboardon építettem meg, a könnyedség kedvéért.
 
-![R1 képlete]([https://raw.githubusercontent.com/pongotamaas/Tavkozles/img/szamolas](https://raw.githubusercontent.com/pongotamaas/Tavkozles/refs/heads/main/img/szamolas.png))
+![R1 képlete](https://raw.githubusercontent.com/pongotamaas/Tavkozles/refs/heads/main/img/szamolas.png)
 
 
 6 dB-es csillapításra kiszámolt ellenállás értékek:
 
 A kapcsolási rajz ábrázolja a jelgenerátort a belső ellenállásával, valamint a Pi csillapítót a kiszámolt ellenállás értékekkel:
 
-
+![kapcsolási rakz](https://raw.githubusercontent.com/pongotamaas/Tavkozles/refs/heads/main/img/fingocska.PNG)
 
 ### 3. **Mérési paraméterek**
 
 | Paraméter           | Érték |
 |---------------------|-------|
-| Generátor jel       | |
-| Kimeneti Jel        |  |
-| Generátor Frekvencia|  |
-| Csillapítás         |  |
-| Átviteli Arány      |  |
-| Bemeneti impedancia |  |
-| Kimeneti impedancia |  |   
+| Generátor jel       |5,148 Vp2p |
+| Kimeneti Jel        |2,501 Vp2p  |
+| Generátor Frekvencia|1kHz  |
+| Csillapítás         |-627dB  |
+| Átviteli Arány      |6,27dB  |
+| Bemeneti impedancia |-  |
+| Kimeneti impedancia |- |   
 
 <br>
 
@@ -44,9 +44,9 @@ Látható az oszcilloszkópon a sárga 1-es csatornán a csillapított kimeneti 
 
 ### 4. **Mérési eredmények**
 
-- **Kimeneti Jel**: A kimeneti jel mindössze 41.2%-a a generátor jelének.
+- **Kimeneti Jel**: A kimeneti jel mindössze 48,6%-a a generátor jelének.
   
-- **Csillapítás/Átviteli arány**:  7.702 dB csillapítást tapasztalunk az áramkör jóvoltából.
+- **Csillapítás/Átviteli arány**:   6,27dB csillapítást tapasztalunk az áramkör jóvoltából.
 
 - **Kimeneti/Bemeneti impedancia**: ??????.  
 

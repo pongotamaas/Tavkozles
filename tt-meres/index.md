@@ -14,7 +14,7 @@
 A projekt célja egy PI csillapító áramkör megépítése, amelynek fókuszában a csillapítás mérése áll.
 Az áramkört breadboardon építettem meg, a könnyedség kedvéért.
 
-![R1 képlete](https://raw.githubusercontent.com/pongotamaas/Tavkozles/img/szamolascffee4ced185268076fb4bf54fdfafc23a0b0f74/kepek/svgviewer-output.svg)
+![R1 képlete](https://raw.githubusercontent.com/pongotamaas/Tavkozles/img/szamolas)
 
 
 6 dB-es csillapításra kiszámolt ellenállás értékek:
